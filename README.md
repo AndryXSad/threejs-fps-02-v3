@@ -1,6 +1,8 @@
 # NIGHTSHIFT — Tactical 5v5 Control Points
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-threejs--fps--02-blue)](https://make.fun/bounty/threejs-fps-02)
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/AndryXSad/threejs-fps-02-v3/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/AndryXSad/threejs-fps-02-v3/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
 [![repo](https://img.shields.io/badge/repo-AndryXSad%2Fthreejs--fps--02--v3-181717)](https://github.com/AndryXSad/threejs-fps-02-v3)
 [![three.js](https://img.shields.io/badge/three.js-0.187.0-black)](https://threejs.org/)
 
