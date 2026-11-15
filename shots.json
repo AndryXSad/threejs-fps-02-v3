@@ -1,0 +1,25 @@
+{
+  "seed": 7,
+  "shots": [
+    {
+      "file": "screenshots/start.jpg",
+      "mode": "start",
+      "url": "game/index.html?shot=start"
+    },
+    {
+      "file": "screenshots/play.png",
+      "mode": "play",
+      "url": "game/index.html?shot=play"
+    },
+    {
+      "file": "screenshots/buy.png",
+      "mode": "buy",
+      "url": "game/index.html?shot=buy"
+    },
+    {
+      "file": "screenshots/end.png",
+      "mode": "end",
+      "url": "game/index.html?shot=end"
+    }
+  ]
+}
